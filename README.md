@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+[![](https://visitcount.itsvg.in/api?id=dilhansiriwardhana&label=Profile%20Views&color=9&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <!--
 **dilhansiriwardhana/dilhansiriwardhana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
